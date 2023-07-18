@@ -4,3 +4,8 @@ Employees-Distribution - Preprocessing
 */
 
 
+--Checking whole data
+SELECT *
+FROM employees;
+
+--
