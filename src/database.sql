@@ -18,11 +18,12 @@ CREATE TABLE employees (
 	hire_date DATE,
 	termdate DATE,
 	location_city VARCHAR (30),
-	location_state VARCHAR (30)
-);
+	location_state VARCHAR (30));
+	
+-- Data cleaning is in preprocess.sql
 SET datestyle = 'ISO, MDY';
 
--- Creating/loading from CSv
+-- Creating/loading from CSV
 COPY employees
 FROM 'D:\Employee-Distribution\src\data\Employee.csv'
 CSV HEADER;
@@ -30,3 +31,5 @@ CSV HEADER;
 --Checking all data
 SELECT *
 FROM employees;
+
+/*------------------------------------------------------------------------*/
