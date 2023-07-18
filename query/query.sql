@@ -31,10 +31,20 @@ SELECT
 		 WHEN age>=45 AND age<=54 THEN '45-54'
 		 WHEN age>=55 AND age<=64 THEN '55-64'
 		 ELSE '65+'
-	 END AS age_group
+	 END AS age_group, gender,
+	 COUNT(*) AS Count
+FROM employees
+WHERE age>=18 AND termdate IS NULL
+GROUP BY age_group, gender
+ORDER BY age_group, gender;
 
+--Query 4)How many employees work at headquaters versus remote locations?
+SELECT location, COUNT(*) AS Count
+FROM employees
+WHERE age>=18 AND termdate IS NULL
+GROUP BY 1;
 
-
+--Query 5)What is the average length of employment for employees who have been terminated?
 
 
 
