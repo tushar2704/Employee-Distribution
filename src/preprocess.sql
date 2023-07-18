@@ -58,14 +58,16 @@ ADD COLUMN age INT;
 UPDATE employees
 SET age = EXTRACT(YEAR FROM AGE(CURRENT_DATE, birthdate));
 
---
+--Checking for age 
 SELECT 
 MIN(age) as min, MAX(age) as max
 From employees;
 
 SELECT COUNT(*)
 from employees
-where age>60;
+where age<18;
+
+--
 
 
 
@@ -74,9 +76,7 @@ where age>60;
 
 
 
-
-
-
+/*---------------------------------------------------------------------------------*/
 
 
 
