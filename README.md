@@ -4,6 +4,9 @@
 
 Welcome to the Employee-Distribution! This repository contains valuable insights and visualizations derived from an extensive HR dataset spanning from 2000 to 2020, with over 22,000 rows. The data was meticulously cleaned and analyzed using PostgreSQL, and the results are beautifully visualized with Power BI. This comprehensive dashboard aims to answer crucial HR-related questions and shed light on various aspects of the organization's workforce.
 
+### [PowerBI Report](https://www.novypro.com/project/employee-distribution-dashboard-1) 
+
+![Screenshot 2023-07-19 154829](https://github.com/tushar2704/Employee-Distribution/assets/66141195/1bb3e67f-f543-4b20-ad3d-6126948392f0)
 
 
 ## Key Questions Explored
