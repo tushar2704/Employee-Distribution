@@ -11,17 +11,17 @@ Welcome to the Employee-Distribution! This repository contains valuable insights
 
 ## Key Questions Explored
 
-1. **Gender Breakdown**: Discover the gender distribution of employees within the company.
-2. **Race/Ethnicity Breakdown**: Explore the racial and ethnic composition of the workforce.
-3. **Age Distribution**: Gain insights into the age distribution of employees.
-4. **Headquarters vs. Remote Locations**: Understand the number of employees working at headquarters versus remote locations.
-5. **Average Employment Length for Terminated Employees**: Find out the average tenure of terminated employees.
-6. **Gender Distribution across Departments and Job Titles**: See how gender distribution varies across different departments and job titles.
-7. **Distribution of Job Titles**: Explore the distribution of job titles across the company.
-8. **Highest Turnover Rate by Department**: Identify the department with the highest turnover rate.
-9. **Distribution of Employees across Locations (by State)**: Learn about the geographic distribution of employees across different states.
-10. **Employee Count Changes over Time**: Track changes in the company's employee count over the years based on hiring and termination dates.
-11. **Tenure Distribution by Department**: Examine the tenure distribution for each department.
+1. **Gender Breakdown**: Gender distribution of employees within the company.
+2. **Race/Ethnicity Breakdown**: Racial and ethnic composition of the workforce.
+3. **Age Distribution**: Insights into the age distribution of employees.
+4. **Headquarters vs. Remote Locations**: Understanding the number of employees working at headquarters versus remote locations.
+5. **Average Employment Length for Terminated Employees**: Finding out the average tenure of terminated employees.
+6. **Gender Distribution across Departments and Job Titles**: Seeing how gender distribution varies across different departments and job titles.
+7. **Distribution of Job Titles**: Exploring the distribution of job titles across the company.
+8. **Highest Turnover Rate by Department**: Identifing the department with the highest turnover rate.
+9. **Distribution of Employees across Locations (by State)**: Learning about the geographic distribution of employees across different states.
+10. **Employee Count Changes over Time**: Tracking changes in the company's employee count over the years based on hiring and termination dates.
+11. **Tenure Distribution by Department**: Examining the tenure distribution for each department.
 
 ## Summary of Findings
 
@@ -50,8 +50,20 @@ While this dashboard offers valuable insights, it's essential to be aware of its
 To get started with the HR Data Dashboard and explore the rich visualizations and findings, you can follow these steps:
 
 1. Clone this repository to your local machine.
-2. Ensure you have the necessary tools installed, such as MySQL Workbench and Power BI, to analyze and visualize the data effectively.
+2. Ensure you have the necessary tools installed, such as PostgreSQL and Power BI, to analyze and visualize the data effectively.
 3. Load the provided dataset into your MySQL database.
 4. Open the Power BI file (.pbix) to interact with the pre-built visualizations and answer the key HR questions.
 
-We hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes. Should you have any questions or feedback, feel free to reach out. Happy analyzing!
+I hope you find this HR Data Dashboard insightful and valuable for your organization's HR planning and decision-making processes. Should you have any questions or feedback, feel free to reach out. Happy analyzing!
+
+
+## Author
+- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+
+## Contact me!
+
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
